@@ -1,4 +1,4 @@
-#Unified Cloud Storage
+# Unified Cloud Storage
 
 Group project aims to create an application to store file in 3 cloud locations. Only googledrive.py, splitfile.py & main.py is written by me. Others are written by teammates.
 
