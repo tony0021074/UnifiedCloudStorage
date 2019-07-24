@@ -1,5 +1,7 @@
 # Unified Cloud Storage (School group project)
 
+*not runnable
+
 Group project aims to create an application to store file in 3 cloud locations. Only googledrive.py, splitfile.py & main.py is written by me. Others are written by teammates.
 
 The file is split into 3 parts. They are sent to google drive, OneDrive and Dropbox.
